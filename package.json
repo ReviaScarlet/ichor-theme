@@ -22,7 +22,7 @@
     "publisher": "Leivysallia",
     "repository": {
         "type": "git",
-        "url": "https://github.com"
+        "url": "https://github.com/ReviaScarlet/ichor-theme.git"
     },
     "scripts": {
         "build": "vsce package"
