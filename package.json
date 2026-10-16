@@ -1,0 +1,30 @@
+{
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ichor",
+                "path": "./themes/dark-ichor.json",
+                "uiTheme": "vs-dark"
+            }
+        ]
+    },
+    "description": "this is a dark theme...",
+    "version": "0.0.3",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "icon": "icon.png",
+    "license": "MIT",
+    "name": "ichor",
+    "publisher": "Leivysallia",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Leivysallia/wyrd-theme.git"
+    },
+    "scripts": {
+        "build": "vsce package"
+    }
+}
