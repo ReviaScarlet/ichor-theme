@@ -8,24 +8,24 @@ A dark vscode theme...
 
 ### Python
 
-![python](https://github.com/ReviaScarlet/ichor-theme/blob/master/screenshots/python.png)
+![python](screenshots/python.png)
 
 ### YAML
 
-![yaml](https://github.com/ReviaScarlet/ichor-theme/blob/master/screenshots/yaml.png)
+![yaml](screenshots/yaml.png)
 
 ### json
 
-![json](https://github.com/ReviaScarlet/ichor-theme/blob/master/screenshots/json.png)
+![json](screenshots/json.png)
 
 ### PowerShell
 
-![pwsh](https://github.com/ReviaScarlet/ichor-theme/blob/master/screenshots/pwsh.png)
+![pwsh](screenshots/pwsh.png)
 
 ### JavaScript
 
-![js](https://github.com/ReviaScarlet/ichor-theme/blob/master/screenshots/JavaScript.png)
+![js](screenshots/JavaScript.png)
 
 ### PHP
 
-![php](https://github.com/ReviaScarlet/ichor-theme/blob/master/screenshots/php.png)
+![php](screenshots/php.png)
