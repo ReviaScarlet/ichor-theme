@@ -4,20 +4,20 @@
 
 A dark vscode theme...
 
-[Repository](https://github.com/leivysallia-177013/wyrd-theme.git)
+[Repository](https://github.com/ReviaScarlet/ichor-theme.git)
 
 ### Python
 
-![python](https://github.com/leivysallia-177013/wyrd-theme/raw/main/screenshots/optimized-webp/python.webp)
+![python](https://github.com/ReviaScarlet/wyrd-theme/raw/main/screenshots/python.webp)
 
 ### YAML
 
-![yaml](https://github.com/leivysallia-177013/wyrd-theme/raw/main/screenshots/optimized-webp/yaml.webp)
+![yaml](https://github.com/ReviaScarlet/wyrd-theme/raw/main/screenshots/yaml.webp)
 
 ### json
 
-![json](https://github.com/leivysallia-177013/wyrd-theme/raw/main/screenshots/optimized-webp/json.webp)
+![json](https://github.com/ReviaScarlet/wyrd-theme/raw/main/screenshots/json.webp)
 
 ### PowerShell
 
-![pwsh](https://github.com/leivysallia-177013/wyrd-theme/raw/main/screenshots/optimized-webp/ps1.webp)
+![pwsh](https://github.com/ReviaScarlet/wyrd-theme/raw/main/screenshots/ps1.webp)
